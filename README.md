@@ -80,7 +80,7 @@ mkdir -p ~/.vim/syntax && \
 cp syntax/nginx.vim ~/.vim/syntax/ && \
 mkdir -p ~/.vim/plugin && \
 cp plugin/auto-pairs.vim ~/.vim/plugin && \
-cd ~/Download && rm -rf vimConfig
+cd ~/Downloads && rm -rf vimConfig
 ```
 
 `REF:`
